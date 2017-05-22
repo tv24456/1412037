@@ -1,1 +1,8 @@
 # 1412037
+2:user:GRANT select on GIAMDOC to MADUAN;
+user:GRANT select on GIAMDOC to TENDUAN;
+user:GRANT select on GIAMDOC to KINHPHI;
+user:GRANT select on GIAMDOC to TENPHONG;
+user:GRANT select on GIAMDOC to TENCHINHANH;
+user:GRANT select on GIAMDOC to TONGCHI;
+user:GRANT select on GIAMDOC to TENTRUONGPHONG;
